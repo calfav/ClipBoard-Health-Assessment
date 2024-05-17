@@ -7,7 +7,7 @@ Write SQL queries to extract agent performance metrics from Zendesk’s data.
 
 FOR THE FIRST QUERY_
 
--- This query selects the month from the created_at column, and calculates the average first reply time
+-- This query selects the month from the created_at column and calculates the average first reply time
 and average first resolution time for each month.
 
 SELECT
